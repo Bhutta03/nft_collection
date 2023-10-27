@@ -1,12 +1,12 @@
 [package]
-name = "nft_collection"
-version = "0.1.0"
-edition = "2018"
+name = "nft_collection"  # The name of your Rust package (project)
+version = "0.1.0"       # The version of your package
+edition = "2018"        # The Rust edition you are using
 
 [dependencies]
-near-sdk = "3.1"
-serde = { version = "1.0", features = ["derive"] }
-serde_json = "1.0"
+near-sdk = "3.1"         # Dependency on the NEAR SDK, version 3.1
+serde = { version = "1.0", features = ["derive"] }  # Dependency on the Serde library with derive features
+serde_json = "1.0"       # Dependency on the Serde JSON library
 
 [lib]
-crate-type = ["cdylib", "rlib"]
+crate-type = ["cdylib", "rlib"]  # Specifies the crate types, including a dynamic library and a Rust library
