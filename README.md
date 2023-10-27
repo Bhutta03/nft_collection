@@ -4,7 +4,8 @@ This smart contract is designed to manage an NFT collection. It allows the owner
 We can also add more funcnalities into our smart contract
 Metadata: You can associate metadata with each NFT, allowing you to store additional information about the tokens, such as their names, descriptions, and links to images or other content.
 
-Transfer NFTs: Implement the ability to transfer NFTs between different NEAR accounts. This enables the buying and selling of NFTs within the NEAR ecosystem.
+# Transfer NFTs:
+Implement the ability to transfer NFTs between different NEAR accounts. This enables the buying and selling of NFTs within the NEAR ecosystem.
 
 Burn NFTs: Add a functionality to allow the owner to burn (destroy) NFTs, removing them from the collection.
 
