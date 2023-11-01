@@ -1,7 +1,7 @@
 # nft_collection
 This smart contract is designed to manage an NFT collection. It allows the owner to create new NFTs (minting) and associate each NFT with their NEAR account ID. The UnorderedMap is used to keep track of the ownership of each NFT by storing the mapping of token IDs to owner account IDs. The contract also ensures that it's properly initialized and that only the owner can mint NFTs
 
-We can also add more funcnalities into our smart contract
+We can also add more funcnalities into our smart contract.
 
 Access Control:
 Define roles and permissions within the contract to allow multiple users to interact with the collection, not just the owner. For example, you can have minting administrators who can mint NFTs.
