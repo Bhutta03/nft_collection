@@ -9,7 +9,7 @@
 //     explorerUrl: 'https://explorer.testnet.near.org',
 //     };  // Network configuration
 
-//     const keyStore = new nearAPI.keyStores.UnencryptedFileSystemKeyStore('\\wsl.localhost\\Ubuntu-22.04\\home\\khubaib\\.near-credentials');
+//     const keyStore = new nearAPI.keyStores.UnencryptedFileSystemKeyStore('//path of .credential folder');
 //     const near = await nearAPI.connect({...config, keyStore});
 //     const account = await near.account('bhuttag.testnet');
 
