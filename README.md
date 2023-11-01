@@ -6,15 +6,6 @@ We can also add more funcnalities into our smart contract
 Access Control:
 Define roles and permissions within the contract to allow multiple users to interact with the collection, not just the owner. For example, you can have minting administrators who can mint NFTs.
 
-NFT Market: 
-Create an integrated marketplace where users can list their NFTs for sale and others can purchase them.
-
-Royalties: 
-Implement royalty fees for creators. This ensures that creators receive a portion of the sale price whenever an NFT is resold.
-
-Minting Costs: 
-Add minting costs or fees for creating NFTs. This can help prevent spamming of the contract.
-
 Metadata Management: 
 Implement the management of token metadata in an efficient and organized way, ensuring that metadata is retrievable for each NFT.
 
