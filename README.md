@@ -14,5 +14,3 @@ Emit events and notifications when minting, transferring, or selling NFTs. This 
 
 Upgradeability: 
 Consider implementing an upgrade mechanism that allows for the contract to be updated while preserving the existing state and NFT ownership.
-
-Remember that implementing all these features can be a complex task, and it's important to thoroughly test and secure your smart contract to ensure it functions as intended and is safe for users. Additionally, you can leverage external libraries and standards in the NEAR ecosystem to make development more efficient and compatible with other NEAR-based projects and marketplaces.
